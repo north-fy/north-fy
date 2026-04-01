@@ -47,18 +47,18 @@
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-4FC08D?style=for-the-badge&logo=hexarch&logoColor=white)
 ![Concurrency Patterns](https://img.shields.io/badge/-Concurrency%20Patterns-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
+## 📊 Stats
+<div align="center">
+  
+### 🔥 GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=north-fy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=north-fy&theme=radical&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF" height="180px"/>
 
-<details>
-<summary>📊 <b>Tech Stack Overview</b></summary>
+### 💻 LeetCode
 
-| Category | Technologies |
-|---------|-------------|
-| **Languages** | C++, Python, Lua, Golang |
-| **Databases** | SQLite3, PostgreSQL, Redis, ClickHouse, GORM |
-| **Backend** | http/net, errGroup, Gin, Fiber, Gorilla/WebSocket, Protobuf, Logrus, Swagger |
-| **DevOps** | Makefile, Docker, Docker Compose, Unix Terminal, Ubuntu/Arch, CI/CD, K8s, Nginx, Cloudflare |
-| **Architecture** | RESTful API, gRPC, SOLID, Clean Architecture, Concurrency Patterns |
+![LeetCode Stats](https://leetcard.jacoblin.cool/north3am?theme=dark&font=Inter&ext=heatmap)
 
-</details>
+[![LeetCode Profile](https://img.shields.io/badge/-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/north3am/)
+
+</div>
 
