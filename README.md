@@ -52,7 +52,6 @@
   
 ### 🔥 GitHub
 <img src="https://github-readme-stats.vercel.app/api?username=north-fy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=north-fy&theme=radical&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF" height="180px"/>
 
 ### 💻 LeetCode
 
