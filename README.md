@@ -1,6 +1,4 @@
-## Hello/Hola/你好/Guten Tag/Привет 👋
-
-## My skills 🛠
+## Hello / Hola / 你好 / Guten Tag / Привет 👋
 
 ## 🛠️ Tech Stack
 
