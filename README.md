@@ -2,6 +2,9 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=north-fy.north-fy&"  />
+    <a href="https://t.me/n0rth3am" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
 ## My skills 🛠
@@ -51,13 +54,12 @@
 <div align="center">
   
 ### 🔥 GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=north-fy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D" height="180px"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=north-fy&theme=radical&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF" height="180px"/>
 
 ### 💻 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/north3am?theme=dark&font=Inter&ext=heatmap)
-
-[![LeetCode Profile](https://img.shields.io/badge/-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/north3am/)
 
 </div>
 
