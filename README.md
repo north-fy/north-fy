@@ -43,12 +43,6 @@
 
 ## 📊 Stats
 <div align="center">
-  
-### 🔥 GitHub
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=north-fy&theme=radical&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF" height="180px"/>
-
-### 💻 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/north3am?theme=dark&font=Inter&ext=heatmap)
 
